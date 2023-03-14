@@ -1,0 +1,30 @@
+.container{
+    max-width: 600px;
+  }
+  .btn{
+    background: linear-gradient(315deg, #000428 0%, #004e92 75%) !important;
+    color: white;
+    outline: none !important;
+    box-shadow: none !important;
+  }
+  .btn:focus{
+    outline: none !important ;
+  }
+  .btn:hover{
+    color: rgb(229, 228, 140);
+  }
+  .username{
+    font-weight: bold;
+    font-size: larger;
+    color: blueviolet;
+  }
+  .time{
+    font-size: 10px;
+    color: #42413e;
+    
+  }
+  .message{
+    color: #6c573a;
+    text-shadow: #000428;
+    
+  }
